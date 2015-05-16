@@ -1,0 +1,15 @@
+---
+
+title: The Alternative Press
+layout: default
+modal-id: 19
+date: 2014-07-02
+img: press.jpg
+thumbnail: press.jpg
+alt: press
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

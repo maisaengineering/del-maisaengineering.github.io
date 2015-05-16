@@ -1,0 +1,15 @@
+---
+
+title: Car rental
+layout: default
+modal-id: 23
+date: 2014-06-28
+img: carrental_mob.jpg
+thumbnail: carrental_mob.jpg
+alt: carrental_mob
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

@@ -1,0 +1,15 @@
+---
+
+title: O.R.C(the old racing car company)
+layout: default
+modal-id: 12
+date: 2014-07-09
+img: oldcar_web.jpg
+thumbnail: oldcar_web.jpg
+alt: oldcar_webd
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

@@ -1,0 +1,14 @@
+---
+title: Ishlist Radio
+layout: default
+modal-id: 5
+date: 2014-07-16
+img: ishlist_web.jpg
+thumbnail: ishlist_web.jpg
+alt: Ishlist Radi
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

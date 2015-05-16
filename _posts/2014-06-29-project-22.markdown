@@ -1,0 +1,15 @@
+---
+
+title: Oyehabla
+layout: default
+modal-id: 22
+date: 2014-06-29
+img: oyehabla_mob.jpg
+thumbnail: oyehabla_mob.jpg
+alt: oyehabla_mob
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

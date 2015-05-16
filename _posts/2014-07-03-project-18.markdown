@@ -1,0 +1,15 @@
+---
+
+title: Prime Time Solutions
+layout: default
+modal-id: 18
+date: 2014-07-03
+img: prime.jpg
+thumbnail: prime.jpg
+alt: prime
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

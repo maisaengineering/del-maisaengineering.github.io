@@ -1,0 +1,15 @@
+---
+
+title: KidsLink
+layout: default
+modal-id: 20
+date: 2014-07-01
+img: kidslink_mobile_popup.jpg
+thumbnail: kidslink_mobile.jpg
+alt: kidslink_mobile
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

@@ -1,0 +1,15 @@
+---
+
+title: Seedstarter
+layout: default
+modal-id: 16
+date: 2014-07-05
+img: seedstarter_web.jpg
+thumbnail: seedstarter_web.jpg
+alt: seedstarter_web
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

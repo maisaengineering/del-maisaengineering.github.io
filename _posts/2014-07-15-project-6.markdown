@@ -1,0 +1,15 @@
+---
+
+title: Material Tracker
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: materialtracker_web.jpg
+thumbnail: materialtracker_web.jpg
+alt: materialtracker_web
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

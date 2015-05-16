@@ -1,0 +1,15 @@
+---
+
+title: Base Ball
+layout: default
+modal-id: 15
+date: 2014-07-06
+img: baseball_web.jpg
+thumbnail: baseball_web.jpg
+alt: baseball_web
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---

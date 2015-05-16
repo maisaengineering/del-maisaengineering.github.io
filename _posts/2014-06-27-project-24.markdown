@@ -1,0 +1,15 @@
+---
+
+title: Hotel rent
+layout: default
+modal-id: 24
+date: 2014-06-27
+img: hotelrent_mob.jpg
+thumbnail: hotelrent_mob.jpg
+alt: hotelrent_mob
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Maisa Solutions.
+
+---
