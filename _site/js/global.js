@@ -1,5 +1,5 @@
 // jQuery for page scrolling feature - requires jQuery Easing plugin
-/*$(function() {
+$(function() {
     $('a.page-scroll').bind('click', function(event) {
         event.preventDefault();
         var location = '/'
@@ -31,7 +31,7 @@
         }
         window.location = location
     });
-});*/
+});
 
 // --- Added by Upender -------------------------
 // to support individual pages SEO
