@@ -40,7 +40,7 @@ $(function() {
 
 // --- Added by Upender -------------------------
 // to support individual pages SEO
-var anchor = ''
+/*var anchor = ''
 switch (window.location.pathname) {
     case '/services.html/':
         anchor = $('a[href="#services"]')
@@ -69,7 +69,7 @@ switch (window.location.pathname) {
 }
 if(anchor !='') {
    anchor.parents('li:first').addClass('active')
-}
+}*/
 //-------------------------------------------------
 
 // scrolling client images
