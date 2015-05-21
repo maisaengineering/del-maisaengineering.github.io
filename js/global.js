@@ -29,7 +29,13 @@ $(function() {
                 location = 'cloud-computing.html'
                 break;
         }
-        window.location.replace(window.location.protocol + "//" + window.location.host + "/" + location )
+        if(window.location.host == "localhost:4000"){
+            window.location.replace("/" + location )
+        }
+        else{
+            window.location.replace("http://www.maisasolutions.com/" + location )
+        }
+
     });
 });
 
