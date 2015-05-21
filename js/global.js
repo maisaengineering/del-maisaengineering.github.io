@@ -33,9 +33,8 @@ $(function() {
             window.location.replace("/" + location )
         }
         else{
-            window.location.replace("http://www.maisasolutions.com/" + location )
+            window.location.href = "http://www.maisasolutions.com/" + location
         }
-
     });
 });
 
