@@ -29,7 +29,7 @@ $(function() {
                 location = 'cloud-computing.html'
                 break;
         }
-        window.location = location
+        window.location.replace("/" + location )
     });
 });
 
