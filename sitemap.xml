@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.maisasolutions.com/</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/services.html</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/contact.html</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/web-development.html</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/mobile-development.html</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/process.html</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/portfolio.html</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/about/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/contact/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/04/17/SSH-without-password-and-SSH-tunneling-setup-guide/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/04/17/How-to-upload-images-using-selenium-webdriver-with-ruby/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/04/15/Hire-professional-IT-solutions-for-web-development-solutions/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/04/15/Capturing-CAPTCHA-in-selenium-IDE-by-INPUT-BOX-method/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/04/11/How-to-write-Blog-Content/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/02/16/Country-lookup-gem/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2015/02/05/How-to-run-selenium-tests-in-chrome/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2013/08/05/Mongodb-backup-and-restore/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2013/04/15/Getting-started-with-git/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/blog/2013/03/03/application-programming-interface-security/</loc>
+  <lastmod>2015-05-16T11:59:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.maisasolutions.com/contact</loc>
+  <lastmod>2015-05-21T06:24:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
