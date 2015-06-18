@@ -8,8 +8,9 @@ img: desertbook_web.jpg
 thumbnail: desertbook_web.jpg
 alt: desertbook_web
 project-date: April 2014
-client: Start Bootstrap
+client: Deseret Book 
 category: Web Development
-description: Maisa Solutions.
+description: Deseret Book is the largest Latter-day Saint book publisher and also owns a chain of LDS bookstores in the western United States.
+website: https://deseretbook.com
 
 ---

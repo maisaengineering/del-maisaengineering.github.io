@@ -15,21 +15,27 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="{{ site.baseurl }}/img/portfolio_jpg/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <!-- <p>{{ post.description }}</p>
+                            {% if post.description %}
+                                <p>{{ post.description }}</p>
+                            {% endif %}
+                           
                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
-                                </li>
-                            </ul>-->
+                               {% if post.website %}
+                                    <li><b>Website:</b>
+                                        <strong><a href="{{post.website}}" target="_blank">{{ post.website }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+
+                                {% if post.mobile_app_link %}
+                                    <li><b>Mobile app link:</b>
+                                        <strong><a href="{{post.mobile_app_link}}" target="_blank">{{ post.mobile_app_link }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+
+                            </ul>
+                            
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

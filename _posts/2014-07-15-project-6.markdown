@@ -8,8 +8,9 @@ img: materialtracker_web.jpg
 thumbnail: materialtracker_web.jpg
 alt: materialtracker_web
 project-date: April 2014
-client: Start Bootstrap
+client: Telaeris Inc.
 category: Web Development
-description: Maisa Solutions.
+description: Web-based enterprise resource planning allows your procurement team and requesters to easily track every step of the process from anywhere. Material Tracker makes it easy for your employees to request and order materials, equipment, and supplies from any web browser or internet enabled phone.
+website: http://telaeris.com/materialtracker/
 
 ---

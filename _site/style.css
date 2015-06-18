@@ -1600,3 +1600,33 @@ margin-top: 5px;
     padding-top: 10px;
 
 }
+
+
+.container-fluid #newsContent{
+padding: 10px 0 25px 0;
+text-align: center;
+height: 120px;
+}
+
+#news-container ul {
+    width: 100% !important;
+}
+
+#news-container {
+    margin-top: 20px;
+    width:700px;
+
+    margin: 0px auto;
+}
+
+.portfolio-modal .modal-content{
+    background-color: transparent !important;
+}
+
+.modal-body{
+    background-color: #fff !important;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover{
+    background: rgba(254,209,54,.9);
+}

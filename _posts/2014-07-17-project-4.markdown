@@ -7,8 +7,8 @@ img: ashoka_web.jpg
 thumbnail: ashoka_web.jpg
 alt: ashoka_web
 project-date: April 2014
-client: https://tapinto.net/
+client: Ashoka hub
 category: Web Development
-description: The Alternative Press is a CMS application build by Ruby On Rails Technology.
-
+description: AshokaHub enables social entrepreneurs in Ashoka’s global network to Find the right connections, Contact one another, Exchange knowledge, resources and opportunities, Share up-to-date information.
+website: https://hub.ashoka.org/
 ---

@@ -8,8 +8,8 @@ img: press.jpg
 thumbnail: press.jpg
 alt: press
 project-date: April 2014
-client: Start Bootstrap
+client: The Alternative Press
 category: Web Development
-description: Maisa Solutions.
+website: https://www.tapinto.net
 
 ---

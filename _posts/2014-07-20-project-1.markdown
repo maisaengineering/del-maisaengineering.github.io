@@ -8,8 +8,9 @@ img: kidslink_web.jpg
 thumbnail: kidslink_web.jpg
 alt: kidslink_web
 project-date: Current
-client: Start Bootstrap
+client: Kidslink Inc.
 category: Web Development
-description: Maisa Solutions.
-
+description: Share documents, photos, and moments safely in your circle.
+website: http://www.mykidslink.com
+mobile_app_link: https://itunes.apple.com/us/app/kidslink/id880093467
 ---

@@ -8,8 +8,8 @@ img: prime.jpg
 thumbnail: prime.jpg
 alt: prime
 project-date: April 2014
-client: Start Bootstrap
+client: Prime Time Solutions
 category: Web Development
-description: Maisa Solutions.
+website: http://www.primetimesolutions.com
 
 ---

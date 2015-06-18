@@ -10,6 +10,7 @@ alt: koordit_web
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Maisa Solutions.
-
+description: Seek It. Create it. Share it. Enjoy it.
+website: http://www.koordit.com
+mobile_app_link: https://itunes.apple.com/us/app/koordit/id908985224?mt=8
 ---

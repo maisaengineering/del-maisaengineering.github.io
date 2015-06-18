@@ -8,8 +8,7 @@ img: carrental_mob.jpg
 thumbnail: carrental_mob.jpg
 alt: carrental_mob
 project-date: April 2014
-client: Start Bootstrap
+client: MaisaSolutions
 category: Web Development
-description: Maisa Solutions.
 
 ---

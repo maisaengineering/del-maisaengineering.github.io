@@ -8,8 +8,7 @@ img: maisafoods_web.jpg
 thumbnail: maisafoods_web.jpg
 alt: maisafoods_web
 project-date: April 2014
-client: Start Bootstrap
+client: Maisa foods
 category: Web Development
-description: Maisa Solutions.
-
+website: http://maisa.co.in
 ---

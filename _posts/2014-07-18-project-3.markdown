@@ -8,8 +8,6 @@ img: dojitsu_web.jpg
 thumbnail: dojitsu_web.jpg
 alt: dojitsu_web
 project-date: April 2014
-client: Start Bootstrap
+client: Dojitsu
 category: Web Development
-description: Maisa Solutions.
-
 ---

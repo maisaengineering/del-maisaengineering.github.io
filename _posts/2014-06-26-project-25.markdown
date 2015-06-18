@@ -8,8 +8,6 @@ img: photosharing_mob.jpg
 thumbnail: photosharing_mob.jpg
 alt: photosharing_mob
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Maisa Solutions.
-
+client: Maisa Solutions
+category: Mobile Development
 ---

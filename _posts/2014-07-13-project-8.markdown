@@ -8,8 +8,5 @@ img: tribally_web.jpg
 thumbnail: tribally_web.jpg
 alt: tribally_web
 project-date: April 2014
-client: Start Bootstrap
 category: Web Development
-description: Maisa Solutions.
-
 ---
