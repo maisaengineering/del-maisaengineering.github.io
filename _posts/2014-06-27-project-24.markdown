@@ -9,6 +9,6 @@ thumbnail: hotelrent_mob.jpg
 alt: hotelrent_mob
 project-date: April 2014
 client: MaisaSolutions
-category: Web Development
+category: Mobile Development
 
 ---
