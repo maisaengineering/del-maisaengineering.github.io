@@ -2,11 +2,11 @@ url: http://www.maisasolutions.com/
 baseurl: ""
 
 # Site settings
-title: Web Development Services | Mobile Application Developers
 pic: logo
-email: your-email@domain.com
-description: "Web and mobile development services. We offer ios native application, mobile apps, web development with ruby on rails, java, cloud computing and many more."
-keywords: "ios mobile app development, web development services, mobile apps development, ruby on rails developers, mobile development services, mobile apps cloud computing, mobile application development, java web development services, ios development services, iOS Native Application Development"
+email: contact@maisasolutions.com
+title: "Maisasolutions | Web and mobile development services company"
+description: "MaisaSolutions is a web and mobile development services company. We build awesome things for the web & mobile. We’re creators, designers, engineers, educators and problem solvers. We provides Agile Ruby on Rails Development and Consulting."
+keywords: "Ruby on Rails Developers, Ruby on Rails development companies, Ruby on rails companies in india, RoR team, Agile Ruby on Rails Development & Consulting, RoR development and consulting, Ruby on Rails web development, Ruby on Rails development companies, Rails web services, Ruby on Rails Web Development, Ruby on Rails Development team, software outsourcing solutions, mobile applications development, iOS Developers, Android Developers, iOS and Android development companies, JavaScript, HTML5, CSS3, Ruby on Rails, Angular.js, Node.js, Java, NoSQL Databases"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: C52128 #fed136
@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills , CA 90210
+  - line: 555 California Street, Suite 4925
+  - line: San Francisco, CA 94104
 
 
 # Build settings
