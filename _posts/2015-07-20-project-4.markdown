@@ -1,0 +1,16 @@
+---
+
+title: SamePinch
+layout: default
+modal-id: 27
+date: 2014-06-25
+img: samepinch_mobile.jpg
+thumbnail: samepinch_mobile.jpg
+alt: samepinch_mobile
+project-date: July 2015
+client: SamePinch
+category: Mobile Development
+description: SamePinch is a community of like-minded people(dots, we say) connected via shared interests.
+website: http://www.samepinch.co
+mobile_app_link: https://itunes.apple.com/app/apple-store/id998823966?mt=8
+---
