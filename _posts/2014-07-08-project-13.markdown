@@ -10,7 +10,7 @@ alt: att_web
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: AT&T Inc. is an American multinational telecommunications corporation, headquartered at Whitacre Tower in downtown Dallas, Texas.
+description: AT&amp;T Inc. is an American multinational telecommunications corporation, headquartered at Whitacre Tower in downtown Dallas, Texas.
 website: http://www.att.com
 
 ---
