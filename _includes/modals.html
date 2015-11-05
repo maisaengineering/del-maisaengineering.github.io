@@ -28,8 +28,15 @@
                                 {% endif %}
 
                                 {% if post.mobile_app_link %}
-                                    <li><b>Mobile app link:</b>
+                                    <li><b>iOS app link:</b>
                                         <strong style="word-break: break-word;"><a href="{{post.mobile_app_link}}" target="_blank">{{ post.mobile_app_link }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+
+                                {% if post.android_app_link %}
+                                    <li><b>Android app link:</b>
+                                        <strong style="word-break: break-word;"><a href="{{post.android_app_link}}" target="_blank">{{ post.android_app_link }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
