@@ -1,0 +1,16 @@
+---
+
+title: HireWire
+layout: default
+modal-id: 30
+date: 2014-06-23
+img: hirewire_ios.jpg
+thumbnail: hirewire_ios.jpg
+alt: hirewire_mobile
+project-date: July 2015
+client: HireWire
+category: Mobile Development
+<!-- description: SamePinch is a community of like-minded people(dots, we say) connected via shared interests. -->
+website: http://hirewire.com/
+<!-- mobile_app_link: https://play.google.com/store/apps/details?id=co.samepinch.android.app -->
+---

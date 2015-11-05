@@ -1058,6 +1058,7 @@ header .intro-text {
 
 #contact_address{
     /*position: absolute;*/
+    padding: 25px 0 !important;
 }
 
 .learn_more_btn {
