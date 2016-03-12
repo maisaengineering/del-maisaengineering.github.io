@@ -1,6 +1,6 @@
 {% include css/bootstrap.min.css %}
-{% include css/agency.css %}
-{% include css/jquery.fancybox.css %}
+{% include css/agency.min.css %}
+{% include css/jquery.fancybox.min.css %}
 
 
 /*overrides --------------*/
