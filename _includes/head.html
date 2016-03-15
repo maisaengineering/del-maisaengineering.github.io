@@ -25,7 +25,7 @@
     <link rel="shortcut icon" href="{{ site.baseurl }}/img/fav.ico" type="image/x-icon" />
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}" media="none" onload="if(media!='all')media='all'">
 
     <script  async src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
 </head>
