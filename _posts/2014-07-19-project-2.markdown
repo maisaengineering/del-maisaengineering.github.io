@@ -4,8 +4,8 @@ title: Koordit
 layout: default
 modal-id: 2
 date: 2015-07-13
-img: koordit_web.jpg
-thumbnail: koordit_web.jpg
+img: koordit_web_opt.png
+thumbnail: koordit_web_opt.png
 alt: koordit_web
 project-date: April 2014
 client: Start Bootstrap
