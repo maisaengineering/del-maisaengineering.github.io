@@ -1572,6 +1572,10 @@ section{padding:25px 0!important}.simply-scroll-list,.simply-scroll-list li{padd
     padding:30px;
     color:#808080;
 }
+
+.clickable{
+    cursor: pointer;
+}
 /*!
  *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)

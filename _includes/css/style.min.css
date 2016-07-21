@@ -201,3 +201,7 @@ section{padding:25px 0!important}.simply-scroll-list,.simply-scroll-list li{padd
     padding:30px;
     color:#808080;
 }
+
+.clickable{
+    cursor: pointer;
+}
