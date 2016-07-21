@@ -1,67 +1,116 @@
-<!-- Team Section -->
-<!--     <section id="" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Pride</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-            </div>
-            <div class="row">
-                {% for member in site.people %}
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="../img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                            {% endfor %}
-
-                        </ul>
+<section style="background: #BDBDBD">
+    <div class="container">
+        <div class="container_heading">
+            <h3>THE TEAM</h3>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="team-member">
+                    <div class="col-md-4">
+                        <a href="#">
+                            <img class="img-responsive img-circle" src="{{ site.baseurl }}/img/team/1.jpg"  alt="">
+                        </a>
                     </div>
+                    <div class="team-names visible-xs visible-sm mobile-text-center"><a href="">Pradeep Benjaram</a><span class="team_des"> M.D. (Maisa™ group)</span></div>
+                    <div style="height:150px; text-align:left;" class="col-md-8 vertical-align-center">
+                        <div class="valign-center">
+                            <p>Serial entrepreneur. True leader with an exceptional ability to put together right teams delivering innovative results. Pradeep's vision for outstanding customer experience helps us in defining our core values and day-to-day operational success.</p>
+                        </div>
+                    </div>
+                    <div class="team-names hidden-xs hidden-sm"><a href="">Pradeep Benjaram</a><span class="team_des"> M.D. (Maisa™ group)</span></div>
                 </div>
-                {% endfor %}
             </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+            <div class="col-md-6">
+                <div class="team-member">
+                    <div class="col-md-4">
+                        <a href="#">
+                            <img class="img-responsive img-circle" src="{{ site.baseurl }}/img/team/2.jpg"  alt="">
+                        </a>
+                    </div>
+                    <div class="team-names visible-xs visible-sm mobile-text-center"><a href="">Chris Morocco</a><span class="team_des"> Partner & Advisory Member</span></div>
+                    <div style="height:150px; text-align:left;" class="col-md-8 vertical-align-center">
+                        <div class="valign-center">
+                            <p>Coach. Enterprenuer.</p>
+                        </div>
+                    </div>
+                    <div class="team-names hidden-xs hidden-sm"><a href="">Chris Morocco</a><span class="team_des"> Partner & Advisory Member</span></div>
                 </div>
             </div>
         </div>
-    </section> -->
-
-
-<!-- Portfolio Grid Section -->
-    <!-- <section id="portfolio" class="bg-light-gray"> -->
-
-
-<!--
-    <section id="portfolio" class="bg-light-gra">
-        <div class="container">
-
-            <div class="col-md-12">
-
-
-                <h3 class="section-subheading"></h3>
-
-            {% for post in site.posts %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="team-member">
+                    <div class="col-md-4">
+                        <a href="#">
+                            <img class="img-responsive img-circle" src="{{ site.baseurl }}/img/team/3.png"  alt="">
+                        </a>
+                    </div>
+                    <div class="team-names visible-xs visible-sm mobile-text-center"><a href="">Frank Newlands, MD</a><span class="team_des"> Advisory Member</span></div>
+                    <div style="height:150px; text-align:left;" class="col-md-8 vertical-align-center">
+                        <div class="valign-center">
+                            <p>Doctor by profession. Dad of 3 by person. Helps us choose right customer for win-2-win ground. When not working, you can spot him fishing across the globe.</p>
+                        </div>
+                    </div>
+                    <div class="team-names hidden-xs hidden-sm"><a href="">Frank Newlands, MD</a><span class="team_des"> Advisory Member</span></div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="team-member">
+                    <div class="col-md-4">
+                        <a href="#">
+                            <img class="img-responsive img-circle" src="{{ site.baseurl }}/img/team/4.jpg"  alt="">
+                        </a>
+                    </div>
+                    <div class="team-names visible-xs visible-sm mobile-text-center"><a href="">Niveditha Gurram</a><span class="team_des"> </span></div>
+                    <div style="height:150px; text-align:left;" class="col-md-8 vertical-align-center">
+                        <div class="valign-center">
+                            <p>Having worked in IT for 12+yrs, Nivi, brings unique skills to our hiring department. Her ability to understand what motivates people, helping us source right talent from zillion choices most effectively.</p>
+                        </div>
+                    </div>
+                    <div class="team-names hidden-xs hidden-sm"><a href="">Niveditha Gurram</a><span class="team_des"> </span></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="team-member">
+                    <div class="col-md-4">
+                        <a href="#">
+                            <img class="img-responsive img-circle" src="{{ site.baseurl }}/img/team/5.jpg"  alt="">
+                        </a>
+                    </div>
+                    <div class="team-names visible-xs visible-sm mobile-text-center"><a href="">Prasanna Patil</a><span class="team_des"> Director of Operations</span></div>
+                    <div style="height:150px; text-align:left;" class="col-md-8 vertical-align-center">
+                        <div class="valign-center">
+                            <p>Patil, recipient of Graduate Citation from CUNY, oversees the company US operations on a daily basis. He is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Patil in paramount positions has consulted for several large scale global fortunes 500 clients.</p>
+                        </div>
+                    </div>
+                    <div class="team-names hidden-xs hidden-sm"><a href="">Prasanna Patil</a><span class="team_des"> Director of Operations</span></div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="team-member">
+                    <div style="height:180px;" class="vertical-align-center">
+                        <div class="valign-center">
+                            <div class="hidden-xs hidden-sm">
+                                <div class="col-md-4 text-center">
+                                    <div class="count_circle">25+</div>
+                                </div>
+                            </div>
+                            <div class="visible-xs visible-sm">
+                                <div class="col-md-12">
+                                    <div class="count_circle" style="margin:0 auto;">25+</div>
+                                </div>
+                            </div>
+                            <div style="height:150px;" class="col-md-8 vertical-align-center">
+                                <div class="valign-center">
+                                    <p class="top_eng_text">TOP NOTCH ENGINEERS</p>
+                                </div>
                             </div>
                         </div>
-                        <img src="../img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
                 </div>
-            {% endfor %}
             </div>
         </div>
-    </section> -->
+    </div>
+</section>

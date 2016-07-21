@@ -17,37 +17,39 @@ color:
 people:
 - name: Pradeep Benjaram
   pic: 1
-  position: Founder, Managing Director
-  description: True leader. Serial entrepreneur. Pradeep's vision for great customer experience helps us in defining our core values.
+  position: M.D. (Maisa™ group)
+  description: Serial entrepreneur. True leader with an exceptional ability to put together right teams develivering innovative results. Pradeep's vision for outstanding customer experience helps us in defining our core values and day-to-day operational success.
+
+- name: Chris Morocco
+  pic: 2
+  position: Partner & Advisory Member
+  descrption: Coach. Enterprenuer.
+
+- name: Frank Newlands, MD
+  pic: 3
+  position: Advisory Member
+  descrption: Doctor by profession. Dad of 3 by person. Helps us choose right customer for win-2-win ground. When not working, you can spot him fishing across the globe.
 
 - name: Niveditha Reddy
-  pic: 2
-  position: Director of Human Resources
-  description: Having worked as a software engineer for about 10years, Nivi, brings unique skills to our hiring department. Her engineering plus human resources skills helped us to choose right engineers from zillion other choices most effectively.
+  pic: 4
+  position:
+  description: Having worked in IT for 12+yrs, Nivi, brings unique skills to our hiring department. Her ability to understand what motivates people, helping us source right talent from zillion choices most effectively.
 
 - name: Prasanna Patil
-  pic: 3
-  position: Director of Operations(USA)
-  description: Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.
-
-- name: Dave Arora
-  pic: 4
-  position: Director of Business Development
-  description: Dave is responsible forglobal corporate growth initiatives including strategy, mergers, acquisitions, strategic ventures and alliances. Dave is an entrepreneur, creator and coach in essence. Professionally, he has a rich 25 years of business experience from North America and Asia in different roles including Business Development, Regional Marketing and General Management to integrating new talent and technology to offer scalable, secured & easily deployable solutions for Cloud Computing, Big Data Initiative, Web & Mobile Applications Development and solve the most challenging Data Storage & Processing requirements. Prior to joining MAISA, Dave was helping Veteran Owned Small Businesses on US east coast to win IT Hardware, Software and Services requirements of US Department of Defense via Federal Contracting Systems vehicle. <br> Dave received his Master’s degree in Business Administration specialization in Information Systems from India.
-
+  pic: 5
+  position: Director of Operations
+  description: Patil, recipient of Graduate Citation from CUNY, overseas the company US operations on a daily basis. He is passionately involved in client facing, ERP solutions architecture and IT project management/implementations activities. Patil in paramount positions has consulted for several large scale global fortunes 500 clients.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-   - title: facebook
-     url: https://www.facebook.com/MaisaSolutions
+   - title: linkedin
+     url: https://www.linkedin.com/company/maisa-solutions
    - title: twitter
      url: https://twitter.com/maisasolutions
    - title: google-plus
      url: https://plus.google.com/+Maisasolutions/posts
-   - title: youtube
-     url: https://www.youtube.com/watch?v=v5GpjKcUrF8&amp;feature=youtu.be
-   - title: linkedin
-     url: https://www.linkedin.com/company/maisa-solutions
+   - title: facebook
+     url: https://www.facebook.com/MaisaSolutions
 
 # Postal address (add as many lines as necessary)
 address:

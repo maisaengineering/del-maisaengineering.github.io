@@ -8,7 +8,7 @@ $(function() {
                 location = 'services.html'
                 break;
             case '#process':
-                location = 'process.html'
+                location = 'methodology.html'
                 break;
             case '#portfolio':
                 location = 'portfolio.html'
@@ -16,7 +16,7 @@ $(function() {
             case '#our-pride':
                 location = 'pride.html'
                 break;
-            case '#contact':
+            case '#contact_box':
                 location = 'contact.html'
                 break;
             case '#web-development.html':
@@ -101,22 +101,31 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 
-//TWITTER
 
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-
-
-//FACEBOOK
-
-(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=265270373662090&version=v2.0";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
+$(".get_in_touch").click(function() {
+    $('html,body').animate({
+            scrollTop: $("#contact").offset().top - 70},
+        'slow');
+    $('input#name').focus()
+});
 
 
+////TWITTER
+//
+//!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+//
+//
+////FACEBOOK
+//
+//(function(d, s, id) {
+//    var js, fjs = d.getElementsByTagName(s)[0];
+//    if (d.getElementById(id)) return;
+//    js = d.createElement(s); js.id = id;
+//    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=265270373662090&version=v2.0";
+//    fjs.parentNode.insertBefore(js, fjs);
+//}(document, 'script', 'facebook-jssdk'));
+//
+//
 
 
 //$(".hide_div").show()
