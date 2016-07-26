@@ -15,8 +15,8 @@ body {
     overflow-x: hidden;
     /*font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: 'Open Sans', sans-serif !important;
-    /*background-image: url("img/background_bull.jpg");*/
-    /*opacity: 0.9;*/
+    background-image: url(/img/background_bull.jpg);
+    opacity: 0.9;
     color: #333;
 }
 
