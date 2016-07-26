@@ -9,7 +9,7 @@ body {
     /*font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: 'Open Sans', sans-serif !important;
     /*background-image: url("img/background_bull.jpg");*/
-    /*opacity: 1;*/
+    /*opacity: 0.9;*/
     color: #{{ site.color.secondary-dark }};
 }
 

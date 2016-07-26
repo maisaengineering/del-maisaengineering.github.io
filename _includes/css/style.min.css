@@ -205,3 +205,47 @@ section{padding:25px 0!important}.simply-scroll-list,.simply-scroll-list li{padd
 .clickable{
     cursor: pointer;
 }
+
+.setup_meeting{
+    background: url({{ site.baseurl }}/img/calendar.png);
+    width:30px;
+    height:30px;
+    display: inline-block;
+    background-size: cover;
+}
+
+.meeting_text{
+    vertical-align: middle;
+    display: inline-block;
+    font-size:16px;
+    font-weight: bold;
+    padding-left: 5px;
+    float: none;
+    line-height: 30px;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.v-align-c{
+    vertical-align: middle;
+    display: table;
+}
+
+.valign-c{
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.setup_meeting_box{
+    margin-top: 10px;
+}
+.setup_meeting_box:hover{
+    color: #c52128;
+    cursor: pointer;
+}
+
+.setup_meeting_box:hover .setup_meeting{
+    box-shadow: inset 0 0 0 3px rgba(197,33,40, 1);
+    border-radius: 13px;
+}
