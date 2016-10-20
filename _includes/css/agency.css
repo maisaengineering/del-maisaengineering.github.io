@@ -9,8 +9,15 @@ body {
     /*font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: 'Open Sans', sans-serif !important;
     background-image: url({{ site.baseurl }}/img/background_bull.jpg);
-    opacity: 0.9;
     color: #{{ site.color.secondary-dark }};
+}
+
+.main_box {
+    background-color: rgba(255,255,255,0.9);
+}
+
+.container {
+    width: 1000px !important;
 }
 
 .text-muted {
