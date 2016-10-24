@@ -912,69 +912,69 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
-    background-color: #222;
+div#contact {
+    #background-color: #222;
     background-image: url({{ site.baseurl }}/img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
 }
 
-section#contact .section-heading {
+div#contact .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
+div#contact .form-group {
     margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+div#contact .form-group input,
+div#contact .form-group textarea {
     padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+div#contact .form-group input.form-control {
     height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+div#contact .form-group textarea.form-control {
     height: 245px;
 }
 
-section#contact .form-control:focus {
+div#contact .form-control:focus {
     border-color: #{{ site.color.primary }};
-box-shadow: none;
+    box-shadow: none;
 }
 
-section#contact::-webkit-input-placeholder {
+div#contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-moz-placeholder {
+div#contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+div#contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+div#contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+div#contact .text-danger {
     color: #C52128;
 }
 
