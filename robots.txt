@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://www.maisasolutions.com/sitemap.xml
+Sitemap: https://www.maisasolutions.com/sitemap.xml
